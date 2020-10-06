@@ -1,9 +1,10 @@
 ---
-title: Landing
-layout: landing
+title: Timeline
+layout: startpage
 description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
 image: assets/images/pic07.jpg
-nav-menu: false
+nav-menu: true
+permalink: timeline/
 ---
 
 <!-- Main -->
