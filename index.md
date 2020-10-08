@@ -1,11 +1,38 @@
 ---
-layout: page
-title: Home
-landing-title: 'Hi, my name is Forty'
+layout: startpage
+title: Sleuth
 description: null
 image: null
 author: null
 show_tile: false
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+<h2>State we are proud of</h2>
+
+<section class="card-container">
+    <div class="card">
+        <h3>116% alpha</h3>
+        <p>
+            Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula t
+        </p>
+    </div>
+    <div class="card">
+        <h3>116% alpha</h3>
+            <p>
+                Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula t
+            </p>
+    </div>
+    <div class="card">
+        <h3>116% alpha</h3>
+            <p>
+                Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula t
+            </p>
+    </div>
+    <div class="card">
+        <h3>116% alpha</h3>
+            <p>
+                Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula t
+            </p>
+    </div>
+</section>
+

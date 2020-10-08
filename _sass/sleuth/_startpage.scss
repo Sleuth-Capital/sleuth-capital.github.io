@@ -1,0 +1,14 @@
+
+.card-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: auto;
+  gap: 10px 10px;
+
+  @include mobile {
+    grid-template-columns: 1fr;
+  }
+  .card {
+
+  }
+}
