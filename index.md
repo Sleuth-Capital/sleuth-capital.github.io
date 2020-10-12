@@ -7,32 +7,10 @@ author: null
 show_tile: false
 ---
 
-<h2>State we are proud of</h2>
-
-<section class="card-container">
-    <div class="card">
-        <h3>116% alpha</h3>
-        <p>
-            Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula t
-        </p>
-    </div>
-    <div class="card">
-        <h3>116% alpha</h3>
-            <p>
-                Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula t
-            </p>
-    </div>
-    <div class="card">
-        <h3>116% alpha</h3>
-            <p>
-                Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula t
-            </p>
-    </div>
-    <div class="card">
-        <h3>116% alpha</h3>
-            <p>
-                Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula t
-            </p>
-    </div>
+<section class="startpage-text">
+    <h2>Our Service</h2>
+    <p>
+        Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. 
+    </p>
 </section>
 
