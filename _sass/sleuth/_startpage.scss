@@ -1,4 +1,17 @@
 
+#banner {
+
+  h1 {
+    color: $white;
+    font-size: 3.25em;
+    border-bottom: 2px solid $white;
+
+    &:after {
+      display: none;
+    }
+  }
+}
+
 .card-container {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
