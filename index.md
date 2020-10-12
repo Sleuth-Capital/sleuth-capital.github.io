@@ -1,6 +1,6 @@
 ---
 layout: startpage
-title: Sleuth
+title: Sleuth AI
 description: Our company offers a platform to support programmers exploring and testing trading strategies involving alternative, unstructured data in combination with AI and ML.
 image: assets/images/startpage.jpg
 author: null
