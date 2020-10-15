@@ -10,15 +10,21 @@ permalink: timeline/
 
 <ul class="timeline">
 	<li class="event">
-    		<div class="event-date">1987</div>
-    		<div class="event-desc">Red’s Dream is completed. Its rain effect and complexity of lighting pose new technological challenges for the team and allow a study in creating mood and atmosphere. A portion of the film is rendered entirely on
-    the Pixar Image Computer.  </div>
+    		<div class="event-date">November 2020</div>
+    		<div class="event-desc">Functional MVP</div>
     	</li>
 	<li class="event">
-		<div class="event-date">1987</div>
-		<div class="event-desc">Red’s Dream is completed. Its rain effect and complexity of lighting pose new technological challenges for the team and allow a study in creating mood and atmosphere. A portion of the film is rendered entirely on
-the Pixar Image Computer.  </div>
+		<div class="event-date">December 2020</div>
+		<div class="event-desc">Customer Co-creation</div>
 	</li>
+	<li class="event">
+    		<div class="event-date">TBD</div>
+    		<div class="event-desc">Standardized Product</div>
+    </li>
+    <li class="event">
+            <div class="event-date">TBD</div>
+            <div class="event-desc">Market Maturity</div>
+        </li>
 </ul>  
 
 </div>
