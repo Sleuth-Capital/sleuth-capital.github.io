@@ -22,6 +22,10 @@
 		}
 	}
 
+	body {
+		color: _palette(fg);
+	}
+
 	a {
 		@include vendor('transition', (
 			'color #{_duration(transition)} ease-in-out',
