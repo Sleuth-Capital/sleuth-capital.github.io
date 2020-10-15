@@ -140,7 +140,7 @@
 
 		& + label {
 			@include icon;
-			color: _palette(fg);
+			color: _palette(fg-bold);
 			cursor: pointer;
 			display: inline-block;
 			font-weight: _font(weight);
@@ -168,7 +168,7 @@
 				background: _palette(fg-bold);
 				border-color: _palette(highlight);
 				content: '\f00c';
-				color: _palette(bg);
+				color: _palette(fg);
 			}
 		}
 
