@@ -1,6 +1,7 @@
 
 #footer {
-  background-color: $primary;
+  background: $primary;
+  filter: saturate(.3) brightness(.6);
 
   .logo {
     display: flex;

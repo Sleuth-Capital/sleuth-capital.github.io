@@ -14,12 +14,15 @@ show_tile: false
     </p>
 </section>
 
-<section class="card-container">
-    <div class="card"></div>
-</section>
+
+<!--<section class="supported-by">
+    <h2>Currently taking part in</h2>
+    <img src="{% link assets/images/Edventure.png %}" alt="Edventure Logo" />
+</section>-->
+
 
 <section class="newsletter">
-    
+    <h2>Newsletter</h2>
     <!-- Begin Mailchimp Signup Form -->
     <div id="mc_embed_signup">
         <form action="https://campus02.us2.list-manage.com/subscribe/post?u=1301fa64a2850c5c9e9fc4de7&amp;id=8156420238" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">

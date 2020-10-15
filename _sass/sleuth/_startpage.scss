@@ -39,4 +39,25 @@
       max-width: 70%;
     }
   }
+
+  .supported-by {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    .h2,
+    h2 {
+      text-align: center;
+      padding: 2rem 0 0 0;
+    }
+  }
+
+  .newsletter {
+
+    .h2,
+    h2 {
+      text-align: center;
+      padding: 2rem 0 0 0;
+    }
+  }
 }
