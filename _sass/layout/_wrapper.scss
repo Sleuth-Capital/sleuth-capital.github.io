@@ -7,6 +7,7 @@
 			'-webkit-filter #{_duration(menu)} ease',
 			'opacity 0.375s ease-out'
 		));
+		min-height: 100vh;
 		padding-top: 3.25em;
 
 		&.is-transitioning {
