@@ -1,0 +1,142 @@
+.timeline {
+  position: relative;
+  margin: 50px auto;
+  width: 1000px;
+  padding: 50px 0;
+
+  &:before {
+    content: '';
+    position: absolute;
+    height: 100%;
+    left: 50%;
+    width: 2px;
+    top: -20px;
+    background: #000000;
+    z-index: 1;
+  }
+
+  ul {
+    margin: 0;
+    padding: 0;
+
+    li {
+      list-style: none;
+      box-sizing: border-box;
+      line-height: normal;
+      position: relative;
+      width: 50%;
+      padding: 40px 70px;
+
+      &:nth-child(odd) {
+        float: left;
+        text-align: right;
+        clear: both;
+      }
+
+      &:nth-child(even) {
+        float: right;
+        text-align: left;
+        clear: both;
+      }
+
+      .right_content h2 {
+        color: rgba(59, 112, 239, 1);
+        padding: 0px 2px 18px 0px;
+      }
+    }
+  }
+
+
+  .left_content {
+    padding-bottom: 20px;
+  }
+
+  ul li:nth-child(odd):before {
+    content: '';
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    background: rgba(59, 112, 239, 1);
+    border-radius: 50%;
+    box-shadow: 0 0 0 3px rgba(58, 112, 239, 0.2);
+    right: -6px;
+    top: 24px;
+    z-index: 1;
+  }
+
+  ul li:nth-child(even):before {
+    content: '';
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    background: rgba(59, 112, 239, 1);
+    border-radius: 50%;
+    box-shadow: 0 0 0 3px rgba(58, 112, 239, 0.2);
+    left: -6px;
+    top: 24px;
+  }
+
+  ul li:nth-child(odd) .left_content {
+    position: absolute;
+    top: 12px;
+    right: -165px;
+    margin: 0;
+    padding: 8px 16px;
+
+    color: #fff;
+    box-shadow: 0 0 0 3px rgba(59, 112, 239, 0.3);
+    border-radius: 18px;
+
+  }
+
+  ul li:nth-child(even) .left_content {
+    position: absolute;
+    top: 12px;
+    left: -165px;
+    margin: 0;
+    padding: 8px 16px;
+
+    color: #fff;
+    box-shadow: 0 0 0 3px rgba(59, 112, 239, 0.3);
+    border-radius: 18px;
+
+  }
+
+
+  @media (max-width: 1000px) {
+    width: 100%;
+  }
+
+  @media (max-width: 767px) {
+    width: 100%;
+
+    &:before {
+      left: 20px;
+    }
+    ul li:nth-child(odd),
+    ul li:nth-child(even) {
+      width: 100%;
+      text-align: left;
+      padding-left: 50px;
+    }
+
+    ul li:nth-child(odd):before {
+      top: -18px;
+      left: 16px;
+
+    }
+    ul li:nth-child(even):before {
+      top: -18px;
+      left: 16px;
+    }
+
+    ul li:nth-child(odd) .left_content,
+    ul li:nth-child(even) .left_content {
+      top: -30px;
+      left: 50px;
+      right: inherit;
+    }
+
+
+  }
+}
