@@ -7,42 +7,38 @@
 
     {% include header.html %}
 
-    <!-- Banner -->
-    <section id="banner" class="major">
-        <div class="inner">
-            <header class="major">
-                <h1>{{ page.landing-title }}</h1>
-            </header>
-            <div class="content">
-                <p style="text-transform: uppercase;">{{ site.description }}</p>
-                <ul class="actions">
-                    <li><a href="#one" class="button next scrolly">Get Started</a></li>
-                </ul>
+    <div class="home">
+        <!-- Banner -->
+        <section class="banner">
+            <div>
+                <img src="{{ site.baseurl }}/{{ page.image }}" alt="">
             </div>
-        </div>
-    </section>
-
-    <!-- Main -->
-    <div id="main">
-
-        <!-- One -->
-        {% include tiles.html %}
-
-        <!-- Two -->
-        <section id="two">
-            <div class="inner">
+            <div>
                 <header class="major">
-                    <h2>Massa libero</h2>
+                    <h1 class="h1">{{ page.title-shown }}</h1>
                 </header>
-                <p>{{ content }}</p>
-                <ul class="actions">
-                    <li><a href="landing.html" class="button next">Get Started</a></li>
-                </ul>
+
+                <div class="card">
+                    <span>{{ page.card_title }}</span>
+                    <p>
+                        {{ page.card_description }}
+                    </p>
+                    <div class="pull-right">
+                        <a href="#">Apply</a>
+                    </div>
+                </div>
             </div>
+
+
         </section>
 
-    </div>
+        <!-- Main -->
+        <div id="main">
 
+            {{ content }}
+
+        </div>
+    </div>
     {% include footer.html %}
 
 </body>

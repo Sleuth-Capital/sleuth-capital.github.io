@@ -1,27 +1,21 @@
 ---
-layout: startpage
-title: Sleuth AI
-description: Our company offers a platform to support programmers exploring and testing trading strategies involving alternative, unstructured data in combination with AI and ML.
-image: assets/images/startpage.jpg
-author: null
+layout: home
+title: home
+title-shown: test all your <br/> <strong>alternative date sources</strong> <br/> in one platform
+card_title: looking for <strong>alpha testers</strong>
+card_description: Want to use Sleuth AI for your trading idea? Apply for our closed alpha now.
+image: assets/images/tablet-314153.png
+nav-menu: false
 show_tile: false
 ---
 
-<section class="startpage-text">
-    <h2>Our Service</h2>
-    <p>
-        Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. 
-    </p>
+<section class="how-it-works">
+    <h2 class="h2">how it works</h2>
+    <hr/>
+    
 </section>
 
-
-<!--<section class="supported-by">
-    <h2>Currently taking part in</h2>
-    <img src="{% link assets/images/Edventure.png %}" alt="Edventure Logo" />
-</section>-->
-
-
-<section class="newsletter">
+<section class="newsletter" style="display: none">
     <h2>Newsletter</h2>
     <!-- Begin Mailchimp Signup Form -->
     <div id="mc_embed_signup">
