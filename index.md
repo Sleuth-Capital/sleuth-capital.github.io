@@ -12,7 +12,33 @@ show_tile: false
 <section class="how-it-works">
     <h2 class="h2">how it works</h2>
     <hr/>
-    
+    <div class="card">
+        <div>
+            <h3 class="h3">scrape</h3>
+            <img src="{% link assets/images/icons8-work-96.png %}" alt="" />
+        </div>
+        <p>To get an edge in the markets, you will need alternative data. While we can't help you find that data, we make it easy to load into our system using our Sleuth Scrape API.</p>
+    </div>
+    <div class="arrow-down">
+        <span>&darr;</span>
+    </div>
+    <div class="card">
+        <div>
+            <h3 class="h3">test</h3>
+            <img src="{% link assets/images/icons8-circuit-96.png %}" alt="" />
+        </div>
+        <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p>
+    </div>
+    <div class="arrow-down">
+            <span>&darr;</span>
+        </div>
+    <div class="card">
+        <div>
+            <h3 class="h3">trade</h3>
+            <img src="{% link assets/images/icons8-flicker-free-96.png %}" alt="" />
+        </div>
+        <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p>
+    </div>
 </section>
 
 <section class="newsletter" style="display: none">
