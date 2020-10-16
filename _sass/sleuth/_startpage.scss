@@ -109,6 +109,7 @@
 
       @include mobile {
         grid-template-columns: 1fr;
+        width: 90%;
       }
 
       .h3 {
