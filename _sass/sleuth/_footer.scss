@@ -29,6 +29,10 @@
     max-width: 65em;
     padding: 0 0 1rem 0;
 
+    @include mobile {
+      padding: 0 1rem;
+    }
+
     .icon {
       color: $white;
       &.alt {
