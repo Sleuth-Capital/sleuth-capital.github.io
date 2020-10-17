@@ -1,7 +1,7 @@
 ---
 layout: home
 title: home
-title-shown: test all your <br/> <strong>alternative date sources</strong> <br/> in one platform
+title-shown: test all your <br/> <strong>alternative data sources</strong> <br/> in one platform
 card_title: looking for <strong>alpha testers</strong>
 card_description: Want to use Sleuth AI for your trading idea? Apply for our closed alpha now.
 image: assets/images/tablet-314153.png
