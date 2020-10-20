@@ -6,7 +6,12 @@
   .logo {
     display: flex;
     justify-content: center;
+    margin: auto;
     padding: 1rem;
+
+    svg {
+      width: 200px;
+    }
   }
 
   .footer-links {
