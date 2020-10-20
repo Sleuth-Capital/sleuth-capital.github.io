@@ -18,11 +18,11 @@ permalink: timeline/
 		<div class="event-desc">Customer Co-creation</div>
 	</li>
 	<li class="event">
-    		<div class="event-date">TBD</div>
+    		<div class="event-date">Q1 2021</div>
     		<div class="event-desc">Standardized Product</div>
     </li>
     <li class="event">
-            <div class="event-date">TBD</div>
+            <div class="event-date">Q2 2021</div>
             <div class="event-desc">Market Maturity</div>
         </li>
 </ul>  
