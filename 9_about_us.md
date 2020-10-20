@@ -12,33 +12,33 @@ permalink: about us/
 
 <ul class="timeline">
 	<li class="event">
-    		<div class="event-date">November 2020</div>
-    		<div class="event-desc">Functional MVP</div>
-    	</li>
+		<div class="event-date">December 2020</div>
+		<div class="event-desc">Customer Co-creation</div>
+	</li>
 	<li class="event">
 		<div class="event-date">December 2020</div>
 		<div class="event-desc">Customer Co-creation</div>
 	</li>
 	<li class="event">
-    		<div class="event-date">TBD</div>
-    		<div class="event-desc">Standardized Product</div>
-    </li>
-    <li class="event">
-            <div class="event-date">TBD</div>
-            <div class="event-desc">Market Maturity</div>
-        </li>
+		<div class="event-date">December 2020</div>
+		<div class="event-desc">Customer Co-creation</div>
+	</li>
 	<li class="event">
-    		<div class="event-date">TBD</div>
-    		<div class="event-desc">Standardized Product</div>
-    </li>
-    <li class="event">
-            <div class="event-date">TBD</div>
-            <div class="event-desc">Market Maturity</div>
-        </li>
+		<div class="event-date">December 2020</div>
+		<div class="event-desc">Customer Co-creation</div>
+	</li>
 	<li class="event">
-    		<div class="event-date">TBD</div>
-    		<div class="event-desc">Standardized Product</div>
-    </li>
+		<div class="event-date">December 2020</div>
+		<div class="event-desc">Customer Co-creation</div>
+	</li>
+	<li class="event">
+		<div class="event-date">December 2020</div>
+		<div class="event-desc">Customer Co-creation</div>
+	</li>
+	<li class="event">
+		<div class="event-date">December 2020</div>
+		<div class="event-desc">Customer Co-creation</div>
+	</li>
 </ul>  
 
 </div>
