@@ -65,7 +65,7 @@ show_tile: false
                             <input type="checkbox" id="gdpr_16864" name="gdpr[16864]" value="Y" class="av-checkbox gdpr" required>
                             <label for="gdpr_16864">By signing up for the newsletter, you agree to our Terms and privacy policy.</label>
                         </label>
-                        <p>You can change your mind at any time by clicking the unsubscribe link in the footer of any email you receive from us. We will treat your information with respect. For more information about our privacy practices please visit our website. By clicking below, you agree that we may process your information in accordance with these terms.</p>
+                        <p>You can change your mind at any time by clicking the unsubscribe link in the footer of any email you receive from us. We will treat your information with respect. For more information about our privacy practices please visit our privacy statement. By clicking below, you agree that we may process your information in accordance with these terms.</p>
                     </div>
                 </div>
                 <div id="mce-responses" class="clear">
