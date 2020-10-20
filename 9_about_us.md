@@ -12,7 +12,7 @@ permalink: about us/
 <div class="row">
 
 	<div class="4u 12u$(medium)">
-	<div class="4u"><span class="image fit"><img src="{% link assets/images/banner.jpg %}" alt="" /></span></div>
+	<div class="4u"><span class="image fit"><img src="{% link assets/images/Christoph.jpg %}" alt="" /></span></div>
 	<h3>Christoph Minixhofer</h3>
 	<p>Tech Lead</p>
 	</div>
