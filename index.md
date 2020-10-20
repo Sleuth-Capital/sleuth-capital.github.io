@@ -1,9 +1,9 @@
 ---
 layout: home
 title: home
-title-shown: test all your <br/> <strong>alternative data sources</strong> <br/> in one platform
+title-shown: test all your <br/> <strong>alternative data sources</strong> <br/> on one platform
 card_title: looking for <strong>alpha testers</strong>
-card_description: Want to use Sleuth AI for your trading idea? Apply for our closed alpha now.
+card_description: Want to use Sleuth AI for your trading idea? Apply for our exclusive alpha release now.
 image: assets/images/tablet-314153.png
 nav-menu: false
 show_tile: false
@@ -17,7 +17,7 @@ show_tile: false
             <h3 class="h3">scrape</h3>
             <img src="{% link assets/images/icons8-work-96.png %}" alt="" />
         </div>
-        <p>To get an edge in the markets, you will need alternative data. While we can't help you find that data, we make it easy to load into our system using our Sleuth Scrape API.</p>
+        <p>It's not enough to have a brilliant data-driven trading strategy: programmers need to scrape, clean, and format data for use, which takes time. We make it easy to scrape even the messiest unstructured microtext data in our system using our Sleuth Scrape API.</p>
     </div>
     <div class="arrow-down">
         <span>&darr;</span>
@@ -27,7 +27,7 @@ show_tile: false
             <h3 class="h3">test</h3>
             <img src="{% link assets/images/icons8-circuit-96.png %}" alt="" />
         </div>
-        <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p>
+        <p>Build and test trading models around any alternative text data you can scrape with professional-quality tools. You'll see explanations for trade suggestions and performance indicators for every model you build, so you can spend more time exploring ideas.</p>
     </div>
     <div class="arrow-down">
             <span>&darr;</span>
