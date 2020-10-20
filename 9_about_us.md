@@ -11,12 +11,12 @@ permalink: about us/
 <div id="main">
 <div class="row">
 
-	<div class="2u 12u$(large)">
+	<div class="2u$ 12u$(large)">
 	<div class="4u"><span class="image fit"><img src="{% link assets/images/Christoph.jpg %}" alt="" /></span></div>
 	<h4>Christoph Minixhofer</h4>
 	<p>Tech Lead</p>
 	</div>
-	<div class="2u 12u$(large)">
+	<div class="2u$ 12u$(large)">
 	<div class="4u"><span class="image fit"><img src="{% link assets/images/teague.jpg %}" alt="" /></span></div>
 	<h4>Teague Chamberlin</h4>
 	<p>Business Lead</p>
@@ -26,12 +26,12 @@ permalink: about us/
 	<h4>Michael Rimmer</h4>
 	<p>Backend Development</p>
 	</div>
-	<div class="2u 12u$(large)">
+	<div class="2u$ 12u$(large)">
 	<div class="4u"><span class="image fit"><img src="{% link assets/images/Jurgen.jpg %}" alt="" /></span></div>
 	<h4>Jürgen Luttenberger</h4>
 	<p>Program Management</p>
 	</div>
-	<div class="2u 12u$(large)">
+	<div class="2u$ 12u$(large)">
 	<div class="4u"><span class="image fit"><img src="{% link assets/images/Paul.jpg %}" alt="" /></span></div>
 	<h4>Paul Zwölfer</h4>
 	<p>Frontend Development</p>
