@@ -9,6 +9,7 @@ permalink: about us/
 
 <!-- Main -->
 <div id="main">
+<div class="row">
 
 	<div class="4u 12u$(medium)">
 		<h3>Interdum sapien gravida</h3>
