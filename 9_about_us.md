@@ -24,11 +24,11 @@ permalink: about us/
 	<div class="4u$ 12u$(medium)">
 	<div class="4u"><span class="image fit"><img src="{% link assets/images/christoph.jpg %}" alt="" /></span></div>
 	<h3>Michael Rimmer</h3>
-	<p>Backend Development</p>
+	<p>Back Dev</p>
 	</div>
 	<div class="4u 12u$(medium)">
-	<div class="4u"><span class="image fit"><img src="{% link assets/images/teague.jpg %}" alt="" /></span></div>
-	<h3>Jürgen Luttenberger</h3>
+	<div class="4u"><span class="image fit"><img src="{% link assets/images/jurgen.jpg %}" alt="" /></span></div>
+	<h3>Jurgen Luttenberger</h3>
 	<p>Project Management</p>
 	</div>
 	<div class="4u 12u$(medium)">
