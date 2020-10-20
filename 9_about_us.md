@@ -12,33 +12,33 @@ permalink: about us/
 
 <ul class="timeline">
 	<li class="event">
-		<div class="event-date">December 2020</div>
-		<div class="event-desc">Customer Co-creation</div>
+    		<div class="event-date">Christoph Minixhofer</div>
+    		<div class="event-desc">Tech Lead</div>
+    	</li>
+	<li class="event">
+		<div class="event-date">Teague Chamberlin</div>
+		<div class="event-desc">Business Lead</div>
 	</li>
 	<li class="event">
-		<div class="event-date">December 2020</div>
-		<div class="event-desc">Customer Co-creation</div>
-	</li>
+    		<div class="event-date">Jürgen Luttenberger</div>
+    		<div class="event-desc">Project Management</div>
+    </li>
+    <li class="event">
+            <div class="event-date">Michael Rimmer</div>
+            <div class="event-desc">Backend Development</div>
+        </li>
 	<li class="event">
-		<div class="event-date">December 2020</div>
-		<div class="event-desc">Customer Co-creation</div>
-	</li>
+    		<div class="event-date">Paul Zwölfer</div>
+    		<div class="event-desc">Frontend Development</div>
+    </li>
+    <li class="event">
+            <div class="event-date">Shin Huang</div>
+            <div class="event-desc">UI/UX Design</div>
+        </li>
 	<li class="event">
-		<div class="event-date">December 2020</div>
-		<div class="event-desc">Customer Co-creation</div>
-	</li>
-	<li class="event">
-		<div class="event-date">December 2020</div>
-		<div class="event-desc">Customer Co-creation</div>
-	</li>
-	<li class="event">
-		<div class="event-date">December 2020</div>
-		<div class="event-desc">Customer Co-creation</div>
-	</li>
-	<li class="event">
-		<div class="event-date">December 2020</div>
-		<div class="event-desc">Customer Co-creation</div>
-	</li>
+    		<div class="event-date">Patrick Tourniaire</div>
+    		<div class="event-desc">Backend Development</div>
+    </li>
 </ul>  
 
 </div>
