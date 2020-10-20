@@ -37,7 +37,7 @@ show_tile: false
             <h3 class="h3">trade</h3>
             <img src="{% link assets/images/icons8-flicker-free-96.png %}" alt="" />
         </div>
-        <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p>
+        <p>When you've identified a functional strategy, Sleuth AI will help you execute with a partner broker - or we'll offer to buy your strategy for cash!</p>
     </div>
 </section>
 
