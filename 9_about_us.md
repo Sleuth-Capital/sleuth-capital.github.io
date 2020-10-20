@@ -1,7 +1,7 @@
 ---
 title: About Us
 layout: startpage
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'Meet the team of young professionals behind Sleuth AI.<br />To get in touch, please email contact@sleuth-ai.com'
 image: null
 nav-menu: true
 permalink: about us/
@@ -35,6 +35,10 @@ permalink: about us/
             <div class="event-date">TBD</div>
             <div class="event-desc">Market Maturity</div>
         </li>
+	<li class="event">
+    		<div class="event-date">TBD</div>
+    		<div class="event-desc">Standardized Product</div>
+    </li>
 </ul>  
 
 </div>
