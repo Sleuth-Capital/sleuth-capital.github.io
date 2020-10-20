@@ -11,34 +11,18 @@ permalink: about us/
 <div id="main">
 
 <ul class="timeline">
-	<li class="event">
-    		<div class="event-date">Christoph Minixhofer</div>
-    		<div class="event-desc">Tech Lead</div>
-    	</li>
-	<li class="event">
-		<div class="event-date">Teague Chamberlin</div>
-		<div class="event-desc">Business Lead</div>
-	</li>
-	<li class="event">
-    		<div class="event-date">Jürgen Luttenberger</div>
-    		<div class="event-desc">Project Management</div>
-    </li>
-    <li class="event">
-            <div class="event-date">Michael Rimmer</div>
-            <div class="event-desc">Backend Development</div>
-        </li>
-	<li class="event">
-    		<div class="event-date">Paul Zwölfer</div>
-    		<div class="event-desc">Frontend Development</div>
-    </li>
-    <li class="event">
-            <div class="event-date">Shin Huang</div>
-            <div class="event-desc">UI/UX Design</div>
-        </li>
-	<li class="event">
-    		<div class="event-date">Patrick Tourniaire</div>
-    		<div class="event-desc">Backend Development</div>
-    </li>
+	<div class="4u 12u$(medium)">
+		<h3>Interdum sapien gravida</h3>
+		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+	</div>
+	<div class="4u 12u$(medium)">
+		<h3>Faucibus consequat lorem</h3>
+		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+	</div>
+	<div class="4u$ 12u$(medium)">
+		<h3>Accumsan montes viverra</h3>
+		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+	</div>
 </ul>  
 
 </div>
