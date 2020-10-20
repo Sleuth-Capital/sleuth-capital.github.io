@@ -28,7 +28,7 @@ permalink: about us/
 	</div>
 	<div class="4u 12u$(medium)">
 	<div class="4u"><span class="image fit"><img src="{% link assets/images/Jurgen.jpg %}" alt="" /></span></div>
-	<h3>Jurgen Luttenberger</h3>
+	<h3>Jürgen Luttenberger</h3>
 	<p>Program Management</p>
 	</div>
 	<div class="4u 12u$(medium)">
