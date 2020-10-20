@@ -22,14 +22,14 @@ permalink: about us/
 	<p>Business Lead</p>
 	</div>
 	<div class="4u$ 12u$(medium)">
-	<div class="4u"><span class="image fit"><img src="{% link assets/images/michael.jpg %}" alt="" /></span></div>
+	<div class="4u"><span class="image fit"><img src="{% link assets/images/christoph.jpg %}" alt="" /></span></div>
 	<h3>Michael Rimmer</h3>
 	<p>Backend Development</p>
 	</div>
 	<div class="4u 12u$(medium)">
-	<div class="4u"><span class="image fit"><img src="{% link assets/images/Christoph.jpg %}" alt="" /></span></div>
-	<h3>Interdum sapien gravida</h3>
-	<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+	<div class="4u"><span class="image fit"><img src="{% link assets/images/jurgen.jpg %}" alt="" /></span></div>
+	<h3>Jürgen Luttenberger</h3>
+	<p>Project Management</p>
 	</div>
 	<div class="4u 12u$(medium)">
 	<div class="4u"><span class="image fit"><img src="{% link assets/images/Christoph.jpg %}" alt="" /></span></div>
