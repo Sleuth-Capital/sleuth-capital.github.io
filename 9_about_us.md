@@ -23,8 +23,8 @@ permalink: about us/
 	</div>
 	<div class="4u$ 12u$(medium)">
 	<div class="4u"><span class="image fit"><img src="{% link assets/images/Michael.jpg %}" alt="" /></span></div>
-	<h3>Jurgen Luttenberger</h3>
-	<p>Prog Mgmt</p>
+	<h3>Michael Rimmer</h3>
+	<p>Backend Development</p>
 	</div>
 	<div class="4u 12u$(medium)">
 	<div class="4u"><span class="image fit"><img src="{% link assets/images/Christoph.jpg %}" alt="" /></span></div>
