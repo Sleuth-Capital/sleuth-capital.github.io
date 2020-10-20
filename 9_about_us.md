@@ -32,14 +32,14 @@ permalink: about us/
 	<p>Program Management</p>
 	</div>
 	<div class="4u 12u$(medium)">
-	<div class="4u"><span class="image fit"><img src="{% link assets/images/Christoph.jpg %}" alt="" /></span></div>
-	<h3>Faucibus consequat lorem</h3>
-	<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+	<div class="4u"><span class="image fit"><img src="{% link assets/images/paul.jpg %}" alt="" /></span></div>
+	<h3>Paul Zwölfer</h3>
+	<p>Frontend Development</p>
 	</div>
 	<div class="4u$ 12u$(medium)">
-	<div class="4u"><span class="image fit"><img src="{% link assets/images/Christoph.jpg %}" alt="" /></span></div>
-	<h3>Accumsan montes viverra</h3>
-	<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+	<div class="4u"><span class="image fit"><img src="{% link assets/images/shin.jpg %}" alt="" /></span></div>
+	<h3>Shin Huang</h3>
+	<p>UI/UX Design</p>
 	</div>
 	
 
