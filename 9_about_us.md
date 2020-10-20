@@ -27,9 +27,9 @@ permalink: about us/
 	<p>Back Dev</p>
 	</div>
 	<div class="4u 12u$(medium)">
-	<div class="4u"><span class="image fit"><img src="{% link assets/images/jurgen.jpg %}" alt="" /></span></div>
-	<h3>Jurgen Luttenberger</h3>
-	<p>Project Management</p>
+	<div class="4u"><span class="image fit"><img src="{% link assets/images/christoph.jpg %}" alt="" /></span></div>
+	<h3>Jurgen</h3>
+	<p>Projt</p>
 	</div>
 	<div class="4u 12u$(medium)">
 	<div class="4u"><span class="image fit"><img src="{% link assets/images/Christoph.jpg %}" alt="" /></span></div>
