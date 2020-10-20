@@ -11,12 +11,12 @@ permalink: about us/
 <div id="main">
 <div class="row">
 
-	<div class="2u 12u$(medium)">
+	<div class="6u 12u$(medium)">
 	<div class="4u"><span class="image fit"><img src="{% link assets/images/Christoph.jpg %}" alt="" /></span></div>
 	<h4>Christoph Minixhofer</h4>
 	<p>Tech Lead</p>
 	</div>
-	<div class="2u 12u$(medium)">
+	<div class="6u 12u$(medium)">
 	<div class="4u"><span class="image fit"><img src="{% link assets/images/teague.jpg %}" alt="" /></span></div>
 	<h4>Teague Chamberlin</h4>
 	<p>Business Lead</p>
