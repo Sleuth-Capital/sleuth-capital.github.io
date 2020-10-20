@@ -33,7 +33,7 @@ permalink: about us/
 	</div>
 	<div class="4u 12u$(medium)">
 	<div class="4u"><span class="image fit"><img src="{% link assets/images/Paul.jpg %}" alt="" /></span></div>
-	<h3>Paul Zwlofer</h3>
+	<h3>Paul Zwölfer</h3>
 	<p>Frontend Development</p>
 	</div>
 	<div class="4u$ 12u$(medium)">
