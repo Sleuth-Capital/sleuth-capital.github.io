@@ -1,51 +1,54 @@
 ---
 title: About Us
-layout: startpage
-description: 'Meet the team of young professionals behind Sleuth AI.<br />To get in touch, please email contact@sleuth-ai.com'
-image: null
+layout: sleuth-standard
 nav-menu: true
-permalink: about us/
+permalink: about-us/
 ---
 
 <!-- Main -->
-<div id="main">
-<div class="row">
+<div id="main" class="center about-us inner">
 
-	<div class="4u 12u$(medium)">
-	<div class="4u"><span class="image fit"><img src="{% link assets/images/Christoph.jpg %}" alt="" /></span></div>
-	<h4>Christoph Minixhofer</h4>
-	<p>Tech Lead</p>
+    <p>
+    Meet the team of young professionals behind Sleuth AI.<br />
+    To get in touch, please email <a href="mailto:{{site.email}}">contact@sleuth-ai.com</a>
+    </p>
+    <div class="people">
+        <div class="person">
+            <img src="{% link assets/images/Christoph.jpg %}" alt="" />
+            <h2>Christoph Minixhofer</h2>
+            <p>Tech Lead</p>
+        </div>
+        <div class="person">
+            <img src="{% link assets/images/teague.jpg %}" alt="" />
+            <h2>Teague Chamberlin</h2>
+            <p>Business Lead</p>
+        </div>
+        <div class="person">
+            <img src="{% link assets/images/Michael.jpg %}" alt="" />
+            <h2>Michael Rimmer</h2>
+            <p>Backend Development</p>
+        </div>
+        <div class="person">
+            <img src="{% link assets/images/Jurgen.jpg %}" alt="" />
+            <h2>Jürgen Luttenberger</h2>
+            <p>Program Management</p>
+        </div>
+        <div class="person">
+            <img src="{% link assets/images/Paul.jpg %}" alt="" />
+            <h2>Paul Zwölfer</h2>
+            <p>Frontend Development</p>
+        </div>
+        <div class="person">
+            <img src="{% link assets/images/Shin.jpg %}" alt="" />
+            <h2>Shin Huang</h2>
+            <p>UI/UX Design</p>
+        </div>
+        <div></div>
+        <div class="person">
+            <img src="{% link assets/images/Patrick.jpg %}" alt="" />
+            <h2>Patrick Tourniaire</h2>
+            <p>Backend Development</p>
+        </div>
 	</div>
-	<div class="4u 12u$(medium)">
-	<div class="4u"><span class="image fit"><img src="{% link assets/images/teague.jpg %}" alt="" /></span></div>
-	<h4>Teague Chamberlin</h4>
-	<p>Business Lead</p>
-	</div>
-	<div class="4u$ 12u$(medium)">
-	<div class="4u"><span class="image fit"><img src="{% link assets/images/Michael.jpg %}" alt="" /></span></div>
-	<h4>Michael Rimmer</h4>
-	<p>Backend Development</p>
-	</div>
-	<div class="4u 12u$(medium)">
-	<div class="4u"><span class="image fit"><img src="{% link assets/images/Jurgen.jpg %}" alt="" /></span></div>
-	<h4>Jürgen Luttenberger</h4>
-	<p>Program Management</p>
-	</div>
-	<div class="4u 12u$(medium)">
-	<div class="4u"><span class="image fit"><img src="{% link assets/images/Paul.jpg %}" alt="" /></span></div>
-	<h4>Paul Zwölfer</h4>
-	<p>Frontend Development</p>
-	</div>
-	<div class="4u 12u$(medium)">
-	<div class="4u"><span class="image fit"><img src="{% link assets/images/Shin.jpg %}" alt="" /></span></div>
-	<h4>Shin Huang</h4>
-	<p>UI/UX Design</p>
-	</div>
-	<div class="4u 12u$(medium)">
-	<div class="4u"><span class="image fit"><img src="{% link assets/images/Patrick.jpg %}" alt="" /></span></div>
-	<h4>Patrick Tourniaire</h4>
-	<p>Backend Development</p>
-	</div>
-	
 
 </div>
