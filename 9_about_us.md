@@ -10,7 +10,7 @@ permalink: about-us/
 
     <p>
     Meet the team of young professionals behind Sleuth AI.<br />
-    To get in touch, please email <a href="mailto:{{site.email}}">contact@sleuth-ai.com</a>
+    To get in touch, please email <a href="mailto:{{site.email}}">{{site.email}}</a>
     </p>
     <div class="people">
         <div class="person">
