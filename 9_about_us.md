@@ -14,38 +14,38 @@ permalink: about-us/
     </p>
     <div class="people">
         <div class="person">
-            <img src="{% link assets/images/Christoph.jpg %}" alt="" />
+            <img src="{% link assets/images/Christoph.jpg %}" alt="Image of Christoph Minixhofer" />
             <h2>Christoph Minixhofer</h2>
             <p>Tech Lead</p>
         </div>
         <div class="person">
-            <img src="{% link assets/images/teague.jpg %}" alt="" />
+            <img src="{% link assets/images/teague.jpg %}" alt="Image of Teague Chamberlin" />
             <h2>Teague Chamberlin</h2>
             <p>Business Lead</p>
         </div>
         <div class="person">
-            <img src="{% link assets/images/Michael.jpg %}" alt="" />
+            <img src="{% link assets/images/Michael.jpg %}" alt="Image of Michael Rimmer" />
             <h2>Michael Rimmer</h2>
             <p>Backend Development</p>
         </div>
         <div class="person">
-            <img src="{% link assets/images/Jurgen.jpg %}" alt="" />
+            <img src="{% link assets/images/Jurgen.jpg %}" alt="Image of Jürgen Luttenberger" />
             <h2>Jürgen Luttenberger</h2>
             <p>Program Management</p>
         </div>
         <div class="person">
-            <img src="{% link assets/images/Paul.jpg %}" alt="" />
+            <img src="{% link assets/images/Paul.jpg %}" alt="Image of Paul Zwölfer" />
             <h2>Paul Zwölfer</h2>
             <p>Frontend Development</p>
         </div>
         <div class="person">
-            <img src="{% link assets/images/Shin.jpg %}" alt="" />
+            <img src="{% link assets/images/Shin.jpg %}" alt="Image of Shin Huang" />
             <h2>Shin Huang</h2>
             <p>UI/UX Design</p>
         </div>
         <div></div>
         <div class="person">
-            <img src="{% link assets/images/Patrick.jpg %}" alt="" />
+            <img src="{% link assets/images/Patrick.jpg %}" alt="Image of Patrick Tourniaire" />
             <h2>Patrick Tourniaire</h2>
             <p>Backend Development</p>
         </div>
