@@ -8,3 +8,15 @@
 .text-center {
     text-align: center;
 }
+
+.no-p-margin {
+    p {
+        margin: 0;
+    }
+}
+
+.ul-dark {
+    li {
+        color: $black;
+    }
+}
