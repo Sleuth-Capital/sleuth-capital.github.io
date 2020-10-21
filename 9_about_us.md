@@ -31,7 +31,7 @@ permalink: about-us/
         <div class="person">
             <img src="{% link assets/images/Jurgen.jpg %}" alt="Image of Jürgen Luttenberger" />
             <h2>Jürgen Luttenberger</h2>
-            <p>Program Management</p>
+            <p>Project Management</p>
         </div>
         <div class="person">
             <img src="{% link assets/images/Paul.jpg %}" alt="Image of Paul Zwölfer" />
