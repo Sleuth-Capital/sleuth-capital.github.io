@@ -17,6 +17,10 @@
     width: 180px;
     font-size: 0.8em;
     padding: 0 1.5em;
+
+    @include mobile {
+      width: 160px;
+    }
   }
 
   nav {
