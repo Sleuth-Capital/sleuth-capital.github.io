@@ -8,7 +8,11 @@ image: assets/images/tablet-314153.png
 nav-menu: false
 show_tile: false
 ---
-
+<section class="how-it-works">
+    <h2 class="h2">finalist at</h2>
+    <hr/>
+    <img src="{% link assets/images/Edventure.png %}" alt="" />
+</section>
 <section class="how-it-works">
     <h2 class="h2">how it works</h2>
     <hr/>
