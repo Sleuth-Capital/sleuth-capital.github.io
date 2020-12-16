@@ -29,26 +29,15 @@ permalink: about-us/
             <p>Backend Development</p>
         </div>
         <div class="person">
-            <img src="{% link assets/images/Jurgen.jpg %}" alt="Image of Jürgen Luttenberger" />
-            <h2>Jürgen Luttenberger</h2>
-            <p>Project Management</p>
-        </div>
-        <div class="person">
             <img src="{% link assets/images/Paul.jpg %}" alt="Image of Paul Zwölfer" />
             <h2>Paul Zwölfer</h2>
             <p>Frontend Development</p>
         </div>
         <div class="person">
-            <img src="{% link assets/images/Shin.jpg %}" alt="Image of Shin Huang" />
-            <h2>Shin Huang</h2>
-            <p>UI/UX Design</p>
-        </div>
-        <div></div>
-        <div class="person">
             <img src="{% link assets/images/Patrick.jpg %}" alt="Image of Patrick Tourniaire" />
             <h2>Patrick Tourniaire</h2>
             <p>Backend Development</p>
         </div>
-	</div>
+    </div>
 
 </div>
