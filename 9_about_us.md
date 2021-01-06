@@ -38,6 +38,11 @@ permalink: about-us/
             <h2>Patrick Tourniaire</h2>
             <p>Backend Development</p>
         </div>
+        <div class="person">
+            <img src="{% link assets/images/Amy.png %}" alt="Image of Amy Wang" />
+            <h2>Amy Wang</h2>
+            <p>Business Development</p>
+        </div>
     </div>
 
 </div>
