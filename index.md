@@ -11,7 +11,7 @@ show_tile: false
 <section class="how-it-works">
     <h2 class="h2">finalist at</h2>
     <hr/>
-    <img src="{% link assets/images/Edventure.png %}" alt="" />
+    <a href="https://edventure.vc/"><img src="{% link assets/images/Edventure.png %}" alt="" /></a>
 </section>
 <section class="how-it-works">
     <h2 class="h2">how it works</h2>
@@ -19,7 +19,7 @@ show_tile: false
     <div class="card">
         <div>
             <h3 class="h3">scrape</h3>
-            <a href="https://edventure.vc/"><img src="{% link assets/images/icons8-work-96.png %}" alt="" /></a>
+            <img src="{% link assets/images/icons8-work-96.png %}" alt="" />
         </div>
         <p>It's not enough to have a brilliant data-driven trading strategy: programmers need to scrape, clean, and format data for use, which takes time. We make it easy to scrape even the messiest unstructured microtext data in our system using our Sleuth Scrape API.</p>
     </div>
