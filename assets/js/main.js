@@ -354,3 +354,12 @@ for (var listElements of navlist.getElementsByTagName("a")) {
 		listElements.classList.add("active");
 	}
 }
+
+function displayDescription(person) {
+	var description = person.getElementsByClassName("description")[0];
+	if(description.classList.contains("active")) {
+		description.classList.remove("active");
+	} else {
+		description.classList.add("active");
+	}
+}

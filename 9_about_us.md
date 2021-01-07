@@ -12,36 +12,42 @@ permalink: about-us
     Meet the team of young professionals behind Sleuth AI.<br />
     To get in touch, please email <a href="mailto:{{site.email}}">{{site.email}}</a>
     </p>
-    <div class="people">
-        <div class="person">
+    <div id="people" class="people">
+        <div class="person" onclick="displayDescription(this)">
             <img src="{% link assets/images/Christoph.jpg %}" alt="Image of Christoph Minixhofer" />
             <h2>Christoph Minixhofer</h2>
             <p>Tech Lead</p>
+            <p class="description">Christoph is a young professional with technical experience in adoption of cutting-edge technologies including machine learning, NLP, and alternative data harvesting. He has lead software engineering projects at Leftshift One in Austria.</p>
         </div>
-        <div class="person">
+        <div class="person" onclick="displayDescription(this)">
             <img src="{% link assets/images/teague.jpg %}" alt="Image of Teague Chamberlin" />
             <h2>Teague Chamberlin</h2>
             <p>Business Lead</p>
+            <p class="description">Teague leads Sleuth AI's business strategy & development and has worked in finance and consulting for several years at JPMorgan and Freshsight Ltd.</p>
         </div>
-        <div class="person">
+        <div class="person" onclick="displayDescription(this)">
             <img src="{% link assets/images/Michael.jpg %}" alt="Image of Michael Rimmer" />
             <h2>Michael Rimmer</h2>
             <p>Backend Development</p>
+            <p class="description">Michael is a skilled software developer with a broad range of experience as a programmer with Lloyd's Bank, Illuminate Technologies and other firms. He is heavily involved in building the Sleuth AI platform and tools that will support developers in discovering and capitalizing on alternative data trading strategies.</p>
         </div>
-        <div class="person">
+        <div class="person" onclick="displayDescription(this)">
             <img src="{% link assets/images/Paul.jpg %}" alt="Image of Paul Zwölfer" />
             <h2>Paul Zwölfer</h2>
             <p>Frontend Development</p>
+            <p class="description">Paul is a committed professional with years of software development and project management experience at DCCS GmbH in Austria. He takes charge of UI development for the platform and is responsible for user experience as well.</p>
         </div>
-        <div class="person">
+        <div class="person" onclick="displayDescription(this)">
             <img src="{% link assets/images/Patrick.jpg %}" alt="Image of Patrick Tourniaire" />
             <h2>Patrick Tourniaire</h2>
             <p>Backend Development</p>
+            <p class="description">Patrick is a capable software developer and computer scientist with experience at AF Gruppen and Vestre Viken HF in Norway. He is focused on developing the data science tools that are most critical to the Sleuth AI platform.</p>
         </div>
-        <div class="person">
+        <div class="person" onclick="displayDescription(this)">
             <img src="{% link assets/images/Amy1.png %}" alt="Image of Amy Wang" />
             <h2>Amy Wang</h2>
             <p>Business Development</p>
+            <p class="description">Amy is a young professional with skills comprising of data analysis, business, and software from experiences at Northrop Grumman Corporation and Novartis Gene Therapies. She works in business development for Sleuth AI. Amy holds a pending B.S. from the California Institute of Technology (Caltech).</p>
         </div>
     </div>
 

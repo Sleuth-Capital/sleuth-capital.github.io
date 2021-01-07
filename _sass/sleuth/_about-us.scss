@@ -29,6 +29,17 @@
         padding: 0;
       }
 
+      .description {
+        display: none;
+        box-shadow: 0 0 0.25em 0 rgba(0, 0, 0, 0.15);
+        padding: 10px;
+        font-size: 12pt;
+
+        &.active {
+          display: block;
+        }
+      }
+
       @include mobile {
         grid-template-columns: 1fr;
       }
