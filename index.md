@@ -8,41 +8,29 @@ image: assets/images/tablet-314153.png
 nav-menu: false
 show_tile: false
 ---
+<section class="people-who-interact">
+    <h2 class="h2">some title</h2>
+    <hr/>
+    <div class="card-container">
+        <a href="/user" class="card">
+            <h3 class="h3">user</h3>
+            <p>some text that has to be created</p>
+        </a>
+        <a href="/client" class="card">
+            <h3 class="h3">client</h3>
+            <p>some text that has to be created</p>
+        </a>
+        <a href="/investor" class="card">
+            <h3 class="h3">investor</h3>
+            <p>some text that has to be created</p>
+        </a>
+    </div>
+</section>
 <section class="how-it-works">
     <h2 class="h2">finalist at</h2>
     <hr/>
     <a href="https://edventure.vc/"><img src="{% link assets/images/Edventure.png %}" alt="" /></a>
 </section>
-<section class="how-it-works">
-    <h2 class="h2">how it works</h2>
-    <hr/>
-    <div class="card">
-        <div>
-            <h3 class="h3">scrape</h3>
-            <img src="{% link assets/images/icons8-work-96.png %}" alt="" />
-        </div>
-        <p>It's not enough to have a brilliant data-driven trading strategy: programmers need to scrape, clean, and format data for use, which takes time. We make it easy to scrape even the messiest unstructured microtext data in our system using our Sleuth Scrape API.</p>
-    </div>
-    <div class="arrow-down">
-        <span>&darr;</span>
-    </div>
-    <div class="card">
-        <div>
-            <h3 class="h3">test</h3>
-            <img src="{% link assets/images/icons8-circuit-96.png %}" alt="" />
-        </div>
-        <p>Build and test trading models around any alternative text data you can scrape with professional-quality tools. You'll see explanations for trade suggestions and performance indicators for every model you build, so you can spend more time exploring ideas.</p>
-    </div>
-    <div class="arrow-down">
-            <span>&darr;</span>
-        </div>
-    <div class="card">
-        <div>
-            <h3 class="h3">trade</h3>
-            <img src="{% link assets/images/icons8-flicker-free-96.png %}" alt="" />
-        </div>
-        <p>When you've identified a functional strategy, Sleuth AI will help you execute with a partner broker - or we'll offer to buy your strategy for cash!</p>
-    </div>
-</section>
+
 
 

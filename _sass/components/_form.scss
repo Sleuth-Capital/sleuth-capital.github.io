@@ -74,7 +74,7 @@
 	textarea {
 		@include vendor('appearance', 'none');
 		background: _palette(border-bg);
-		border: none;
+		border: 2px solid _palette(highlight);
 		border-radius: 0;
 		color: $black;
 		display: block;
@@ -149,6 +149,7 @@
 			position: relative;
 
 			&:before {
+				border: 2px solid _palette(highlight);
 				background: _palette(border-bg);
 				content: '';
 				display: inline-block;
