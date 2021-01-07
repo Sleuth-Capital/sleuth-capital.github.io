@@ -23,8 +23,27 @@
         <path fill="#343434" d="M107.92,11.2s-135,74.42-46.16,96.69c0,0,60.91,13.22-21.67,68.86,0,0,67.34-51.88,20.42-62.49,0,0-46.28-6.65-36.75-34.36C23.76,79.85,33.23,43.05,107.92,11.2Z" transform="translate(-22.47 -11.2)"/>
     </svg>
     </a>
-    <nav>
+    <nav class="mobile-menu">
         <a href="#menu">Menu</a>
+    </nav>
+    <nav class="desktop-menu">
+        <ul class="links">
+            {% assign current = page.url | downcase | split: '/' %}
+            {% for page in site.pages %}
+            {% if page.layout == "home" %}
+            <!--<li><a href="{{ "" | absolute_url }}/">{{ page.title }}</a></li>-->
+            {% endif %}
+            {% endfor %}
+            {% for page in site.html_pages %}
+            {% if page.layout != "home" and page.nav-menu == true %}
+            <li><a  href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
+            {% endif %}
+            {% endfor %}
+        </ul>
+        <ul class="actions vertical">
+            <li><a class="button special fit" href="mailto:{{site.email}}">Contact Us</a></li>
+            <!--<li><a href="#" class="button fit">Log In</a></li>-->
+        </ul>
     </nav>
     </header>
 

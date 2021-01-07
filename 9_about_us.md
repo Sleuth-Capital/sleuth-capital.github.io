@@ -2,7 +2,7 @@
 title: About Us
 layout: sleuth-standard
 nav-menu: true
-permalink: about-us/
+permalink: about-us
 ---
 
 <!-- Main -->
