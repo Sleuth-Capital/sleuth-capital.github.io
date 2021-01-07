@@ -345,3 +345,12 @@
 	});
 
 })(jQuery);
+
+
+var navlist = document.getElementById("navlist");
+var pathname = window.location.pathname;
+for (var listElements of navlist.getElementsByTagName("a")) {
+	if(listElements.getAttribute("href").toUpperCase().indexOf(pathname.toUpperCase()) !== -1) {
+		listElements.classList.add("active");
+	}
+}

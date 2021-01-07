@@ -2,7 +2,7 @@
 title: Investor
 layout: sleuth-standard
 nav-menu: true
-permalink: investor/
+permalink: investor
 ---
 
 <!-- Main -->

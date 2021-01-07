@@ -2,7 +2,7 @@
 title: Timeline
 layout: sleuth-standard
 nav-menu: true
-permalink: timeline/
+permalink: timeline
 ---
 
 <!-- Main -->

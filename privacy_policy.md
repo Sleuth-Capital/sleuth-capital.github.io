@@ -2,7 +2,7 @@
 title: Privacy policy
 layout: sleuth-standard
 nav-menu: false
-permalink: privacy_policy/
+permalink: privacy_policy
 ---
 
 <div id="main" class="inner no-p-margin">

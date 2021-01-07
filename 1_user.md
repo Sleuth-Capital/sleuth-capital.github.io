@@ -2,7 +2,7 @@
 title: User
 layout: sleuth-standard
 nav-menu: true
-permalink: user/
+permalink: user
 ---
 
 <!-- Main -->

@@ -27,7 +27,7 @@
         <a href="#menu">Menu</a>
     </nav>
     <nav class="desktop-menu">
-        <ul class="links">
+        <ul id="navlist" class="links">
             {% assign current = page.url | downcase | split: '/' %}
             {% for page in site.pages %}
             {% if page.layout == "home" %}

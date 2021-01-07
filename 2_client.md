@@ -2,7 +2,7 @@
 title: Client
 layout: sleuth-standard
 nav-menu: true
-permalink: client/
+permalink: client
 ---
 
 <!-- Main -->
