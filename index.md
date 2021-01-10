@@ -9,7 +9,7 @@ nav-menu: false
 show_tile: false
 ---
 <section class="people-who-interact">
-    <h2 class="h2">some title</h2>
+    <h2 class="h2">who are you</h2>
     <hr/>
     <div class="card-container">
         <a href="/user" class="card">
@@ -29,7 +29,7 @@ show_tile: false
 <section class="how-it-works">
     <h2 class="h2">finalist at</h2>
     <hr/>
-    <a href="https://edventure.vc/"><img src="{% link assets/images/Edventure.png %}" alt="" /></a>
+    <a target="_blank" href="https://edventure.vc/"><img src="{% link assets/images/Edventure.png %}" alt="" /></a>
 </section>
 
 

@@ -350,7 +350,7 @@
 var navlist = document.getElementById("navlist");
 var pathname = window.location.pathname;
 for (var listElements of navlist.getElementsByTagName("a")) {
-	if(listElements.getAttribute("href").toUpperCase().indexOf(pathname.toUpperCase()) !== -1) {
+	if(pathname !== "/" && listElements.getAttribute("href").toUpperCase().indexOf(pathname.toUpperCase()) !== -1) {
 		listElements.classList.add("active");
 	}
 }
@@ -362,4 +362,11 @@ function displayDescription(person) {
 	} else {
 		description.classList.add("active");
 	}
+}
+if(window.location.hash) {
+	var scrollToElement = document.getElementById(window.location.hash);
+	scrollToElement.scrollIntoView({
+		behavior: 'smooth',
+		block: 'start'
+	})
 }

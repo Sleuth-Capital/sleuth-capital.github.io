@@ -43,7 +43,7 @@ permalink: user
     </div>
 </section>
 
-<section class="how-it-works">
+<section class="how-it-works" id="#alpha">
     <h2 class="h2">alpha tester signup</h2>
     <hr/>
     <!-- Begin Mailchimp Signup Form -->
