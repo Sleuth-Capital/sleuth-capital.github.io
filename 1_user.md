@@ -9,7 +9,7 @@ permalink: user
 <div id="main" class="center about-us inner">
 
     <p>
-    Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+    Sleuth AI is a platform with tools to support you turning trading ideas into strategies that can be sold. We aim to support your exploration of alternative, unstructured data and the process of transforming datasets into alpha. When a successful strategy is developed, we will purchase it from you for cash, allowing you to profit from discoveries without taking personal risk.
     </p>
 <section class="how-it-works">
     <h2 class="h2">how it works</h2>
@@ -36,7 +36,7 @@ permalink: user
         </div>
     <div class="card">
         <div>
-            <h3 class="h3">trade</h3>
+            <h3 class="h3">sell</h3>
             <img src="{% link assets/images/icons8-flicker-free-96.png %}" alt="" />
         </div>
         <p>When you've identified a functional strategy, Sleuth AI will help you execute with a partner broker - or we'll offer to buy your strategy for cash!</p>
@@ -58,15 +58,19 @@ permalink: user
                     <label for="mce-LNAME">Last Name</label>
                     <input type="text" value="" name="LNAME" class="required" id="mce-LNAME" required>
                 </div>
-                <div class="mc-field-group">
+                <div class="field mc-field-group">
                     <label for="mce-EMAIL">Email Address</label>
                     <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" required>
                 </div>
                 <div id="mergeRow-gdpr" class="mergeRow gdpr-mergeRow content__gdprBlock mc-field-group">
                     <div class="content__gdpr">
                         <label class="checkbox subfield" for="gdpr_19698">
-                            <input type="checkbox" id="gdpr_19698" name="gdpr[19698]" value="Y" class="av-checkbox gdpr" required>
-                            <label for="gdpr_19698">By signing up for the alpha tester program, you agree to our Terms and privacy policy.</label>
+                            <input type="checkbox" id="gdpr_19698" name="gdpr[19698]" value="Y" class="av-checkbox gdpr">
+                            <label for="gdpr_19698">I want to receive the newsletter</label> 
+                        </label>
+                        <label class="checkbox subfield" for="gdpr_21802">
+                            <input type="checkbox" id="gdpr_21802" name="gdpr[21802]" value="Y" class="av-checkbox gdpr" required>
+                            <label for="gdpr_21802">By signing up, you agree to our Terms and privacy policy.</label>
                         </label>
                         <p>We will treat your information with respect. For more information about our privacy practices please visit our <a href="/privacy_policy"> websites privacy policy</a>. By clicking below, you agree that we may process your information in accordance with these terms.</p>
                     </div>

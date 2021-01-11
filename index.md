@@ -14,15 +14,15 @@ show_tile: false
     <div class="card-container">
         <a href="/user" class="card">
             <h3 class="h3">user</h3>
-            <p>some text that has to be created</p>
+            <p>Turn your trading ideas into sellable strategies.</p>
         </a>
         <a href="/client" class="card">
             <h3 class="h3">client</h3>
-            <p>some text that has to be created</p>
+            <p>Use our alpha-generating datasets and implement your trading strategy.</p>
         </a>
         <a href="/investor" class="card">
             <h3 class="h3">investor</h3>
-            <p>some text that has to be created</p>
+            <p>Help us enable data scientists to explore, test, and sell their trading strategies.</p>
         </a>
     </div>
 </section>
