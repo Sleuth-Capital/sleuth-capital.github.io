@@ -11,8 +11,7 @@ permalink: timeline/
 <ul class="timeline">
 	<li class="event">
     		<div class="event-date">January-March</div>
-    		<div class="event-desc">Working Platform</div>
-		<div class="event-desc">Onboard 100 Users</div>
+    		<div class="event-desc">Working Platform  -  Onboard 100 Users</div>
     	</li>
 	<li class="event">
 		<div class="event-date">December 2020</div>
