@@ -13,6 +13,7 @@
       grid-template-columns: 1fr 1fr 1fr;
       grid-gap: 1rem 3rem;
       text-align: center;
+      cursor: pointer;
 
       img {
         height: 300px;
@@ -27,6 +28,17 @@
       p {
         margin: 0;
         padding: 0;
+      }
+
+      .description {
+        display: none;
+        box-shadow: 0 0 0.25em 0 rgba(0, 0, 0, 0.15);
+        padding: 10px;
+        font-size: 12pt;
+
+        &.active {
+          display: block;
+        }
       }
 
       @include mobile {

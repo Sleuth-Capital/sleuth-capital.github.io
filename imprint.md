@@ -2,7 +2,7 @@
 title: Imprint
 layout: sleuth-standard
 nav-menu: false
-permalink: imprint/
+permalink: imprint
 ---
 
 <div id="main" class="inner text-center">

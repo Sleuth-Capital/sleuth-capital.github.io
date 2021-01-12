@@ -345,3 +345,28 @@
 	});
 
 })(jQuery);
+
+
+var navlist = document.getElementById("navlist");
+var pathname = window.location.pathname;
+for (var listElements of navlist.getElementsByTagName("a")) {
+	if(pathname !== "/" && listElements.getAttribute("href").toUpperCase().indexOf(pathname.toUpperCase()) !== -1) {
+		listElements.classList.add("active");
+	}
+}
+
+function displayDescription(person) {
+	var description = person.getElementsByClassName("description")[0];
+	if(description.classList.contains("active")) {
+		description.classList.remove("active");
+	} else {
+		description.classList.add("active");
+	}
+}
+if(window.location.hash) {
+	var scrollToElement = document.getElementById(window.location.hash);
+	scrollToElement.scrollIntoView({
+		behavior: 'smooth',
+		block: 'start'
+	})
+}

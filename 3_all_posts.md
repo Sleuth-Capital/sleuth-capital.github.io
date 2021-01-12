@@ -7,7 +7,7 @@ description: null
 image: null
 author: null
 show_tile: false
-permalink: blog/
+permalink: blog
 ---
 
 <h1>All blog posts</h1>
