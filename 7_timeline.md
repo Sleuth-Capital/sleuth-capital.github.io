@@ -10,8 +10,9 @@ permalink: timeline/
 
 <ul class="timeline">
 	<li class="event">
-    		<div class="event-date">November 2020</div>
-    		<div class="event-desc">Functional MVP</div>
+    		<div class="event-date">January-March</div>
+    		<div class="event-desc">Working Platform</div>
+		<div class="event-desc">Onboard 100 Users</div>
     	</li>
 	<li class="event">
 		<div class="event-date">December 2020</div>
