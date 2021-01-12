@@ -62,11 +62,20 @@ permalink: user
                     <label for="mce-EMAIL">Email Address</label>
                     <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" required>
                 </div>
+                <div class="mc-field-group input-group display-none">
+                    <strong>Type </strong>
+                    <ul>
+                        <li><input type="checkbox" checked value="2" name="group[83866][2]" id="mce-group[83866]-83866-1"><label for="mce-group[83866]-83866-1">Alpha</label></li>
+                        <li><input type="checkbox" value="4" name="group[83866][4]" id="mce-group[83866]-83866-2"><label for="mce-group[83866]-83866-2">Beta</label></li>
+                        <li><input type="checkbox" value="8" name="group[83866][8]" id="mce-group[83866]-83866-3"><label for="mce-group[83866]-83866-3">Client</label></li>
+                        <li><input type="checkbox" value="16" name="group[83866][16]" id="mce-group[83866]-83866-4"><label for="mce-group[83866]-83866-4">Investor</label></li>
+                    </ul>
+                </div>
                 <div id="mergeRow-gdpr" class="mergeRow gdpr-mergeRow content__gdprBlock mc-field-group">
                     <div class="content__gdpr">
-                        <label class="checkbox subfield" for="gdpr_19698">
-                            <input type="checkbox" id="gdpr_19698" name="gdpr[19698]" value="Y" class="av-checkbox gdpr">
-                            <label for="gdpr_19698">I want to receive the newsletter</label> 
+                        <label class="checkbox subfield" for="mce-group[83866]-83866-0">
+                            <input type="checkbox" id="mce-group[83866]-83866-0" name="group[83866][1]" value="Y" class="av-checkbox gdpr">
+                            <label for="mce-group[83866]-83866-0">I want to receive the newsletter</label> 
                         </label>
                         <label class="checkbox subfield" for="gdpr_21802">
                             <input type="checkbox" id="gdpr_21802" name="gdpr[21802]" value="Y" class="av-checkbox gdpr" required>
