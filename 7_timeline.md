@@ -14,17 +14,13 @@ permalink: timeline
     		<div class="event-desc">Working Platform  -  Onboard 100 Users</div>
     	</li>
 	<li class="event">
-		<div class="event-date">December 2020</div>
-		<div class="event-desc">Customer Co-creation</div>
+		<div class="event-date">April-May</div>
+		<div class="event-desc">Dataset Discovery Competition</div>
 	</li>
 	<li class="event">
-    		<div class="event-date">Q1 2021</div>
-    		<div class="event-desc">Standardized Product</div>
+    		<div class="event-date">June-</div>
+    		<div class="event-desc">Full Time Development - Established Revenue Streams</div>
     </li>
-    <li class="event">
-            <div class="event-date">Q2 2021</div>
-            <div class="event-desc">Market Maturity</div>
-        </li>
 </ul>  
 
 </div>
