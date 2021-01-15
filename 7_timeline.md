@@ -18,7 +18,7 @@ permalink: timeline
 		<div class="event-desc">Dataset Discovery Competition</div>
 	</li>
 	<li class="event">
-    		<div class="event-date">June-</div>
+    		<div class="event-date">June and Beyond</div>
     		<div class="event-desc">Full Time Development - Established Revenue Streams</div>
     </li>
 </ul>  
