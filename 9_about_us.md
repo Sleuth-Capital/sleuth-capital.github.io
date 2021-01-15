@@ -9,7 +9,7 @@ permalink: about-us
 <div id="main" class="center about-us inner">
 
     <p>
-    Meet the team of young professionals behind Sleuth AI: Click a photo for the individual's bio!<br />
+    Meet the team of young professionals behind Sleuth AI: click the photo for the person's bio!<br />
     To get in touch, please email <a href="mailto:{{site.email}}">{{site.email}}</a>
     </p>
     <div id="people" class="people">
