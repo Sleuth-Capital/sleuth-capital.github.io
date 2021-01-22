@@ -22,7 +22,7 @@ permalink: model1
         </div>
         <div class="card">
             <span><i>max. drawdown:</i></span>
-            <span>28.69%</span>
+            <span>-28.69%</span>
         </div>
     </div>
 </section>

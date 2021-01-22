@@ -21,7 +21,7 @@ permalink: client
             <p>
             alpha (annual): 21.01%<br/>
             sharpe ratio: 2.34<br/>
-            max. drawdown: 28.69%
+            max. drawdown: -28.69%
             </p>
             <span>more info</span>
         </a>

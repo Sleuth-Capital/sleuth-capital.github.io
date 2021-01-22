@@ -40,6 +40,10 @@
 
         span {
           color: #1D1D1D;
+
+          &:last-child {
+            font-size: 2.5rem;
+          }
         }
       }
     }
