@@ -1,7 +1,7 @@
 ---
 title: Investor
 layout: sleuth-standard
-nav-menu: true
+nav-menu: false
 permalink: investor
 ---
 

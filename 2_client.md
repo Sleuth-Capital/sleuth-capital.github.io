@@ -1,24 +1,32 @@
 ---
-title: Client
+title: trade with our data
 layout: sleuth-standard
 nav-menu: true
 permalink: client
 ---
 
 <!-- Main -->
-<div id="main" class="center about-us inner">
+<div id="main" class="center client inner">
 
     <p>
     We will provide alpha-generating datasets from our crowdsourced platform at a competitive price and will help you implement (if needed) into your greater strategy.
     </p>
 
-<div>
-Register interest in becoming a client of Sleuth AI
-Name of firm
-Name of contact
-Email/phone (one or other required)
-Option to join newsletter mailing list (check box)
-</div>
+<section class="section-datasets" id="#data_sets">
+    <!--<h2 class="h2">datasets</h2>
+    <hr/>-->
+    <div class="card-container">
+        <a href="/model1" class="card">
+            <h3>Sleuth AI Model 1</h3>
+            <p>
+            alpha: <br/>
+            sharpe ratio: <br/>
+            max. drawdown: 
+            </p>
+            <span>more info</span>
+        </a>
+    </div>
+</section>
 
 <section class="how-it-works" id="#client">
     <h2 class="h2">client signup</h2>
