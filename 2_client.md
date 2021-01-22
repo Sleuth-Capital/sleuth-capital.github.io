@@ -19,9 +19,9 @@ permalink: client
         <a href="/model1" class="card">
             <h3>Sleuth AI Model 1</h3>
             <p>
-            alpha: <br/>
-            sharpe ratio: <br/>
-            max. drawdown: 
+            alpha (annual): 21.01%<br/>
+            sharpe ratio: 2.34<br/>
+            max. drawdown: 28.69%
             </p>
             <span>more info</span>
         </a>

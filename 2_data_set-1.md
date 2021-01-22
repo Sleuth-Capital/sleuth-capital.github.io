@@ -13,16 +13,16 @@ permalink: model1
     </p>
     <div class="info-container">
         <div class="card">
-            <span><i>alpha:</i></span>
-            <span>30%</span>
+            <span><i>alpha (annual):</i></span>
+            <span>21.01%</span>
         </div>
         <div class="card">
             <span><i>sharpe ratio:</i></span>
-            <span>30%</span>
+            <span>2.34</span>
         </div>
         <div class="card">
             <span><i>max. drawdown:</i></span>
-            <span>30%</span>
+            <span>28.69%</span>
         </div>
     </div>
 </section>
