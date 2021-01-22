@@ -53,8 +53,8 @@
           padding: 0 1em;
 
           &:hover {
-            -webkit-animation: vibrate-1 0.3s linear infinite both;
-            animation: vibrate-1 0.3s linear infinite both;
+            -webkit-animation: vibrate-1 0.3s linear both;
+            animation: vibrate-1 0.3s linear both;
           }
 
           &.active {

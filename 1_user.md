@@ -1,5 +1,5 @@
 ---
-title: User
+title: use our platform
 layout: sleuth-standard
 nav-menu: true
 permalink: user
