@@ -27,7 +27,7 @@
 
     .info-container {
       display: grid;
-      grid-template-columns: 33% 33% 33% 33%;
+      grid-template-columns: 33% 33% 33%;
       grid-gap: 20px 1rem;
       margin: 0 auto;
 
@@ -47,7 +47,8 @@
 
   .card-container {
     display: grid;
-    grid-template-columns: 25%  25% 25% 25%;
+    justify-content: center;
+    grid-template-columns: 25%;// 25% 25% 25%;
     grid-gap: 20px 1rem;
     margin: 0 auto;
 
