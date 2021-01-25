@@ -9,7 +9,7 @@ permalink: user
 <div id="main" class="center about-us inner">
 
     <p>
-    Sleuth AI is a platform with tools to support you turning trading ideas into strategies that can be sold. We aim to support your exploration of alternative, unstructured data and the process of transforming datasets into alpha. When a successful strategy is developed, we will purchase it from you for cash, allowing you to profit from discoveries without taking personal risk.
+    Sleuth AI is a platform with tools to support you turning trading ideas into strategies that can be sold. We aim to support your exploration of <span data-tooltip="Alternative data refers to data used by investors to evaluate a company or investment that is not within their traditional data sources.">alternative, unstructured data</span> and the process of transforming datasets into alpha. When a successful strategy is developed, we will purchase it from you for cash, allowing you to profit from discoveries without taking personal risk.
     </p>
 <section class="how-it-works">
     <h2 class="h2">how it works</h2>
