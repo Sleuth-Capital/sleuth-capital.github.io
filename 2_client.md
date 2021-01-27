@@ -9,7 +9,7 @@ permalink: client
 <div id="main" class="center client inner">
 
     <p>
-    We will provide alpha-generating datasets from our crowdsourced platform at a competitive price and will help you implement (if needed) into your greater strategy.
+    We will provide alpha-generating datasets from our crowdsourced platform at a competitive price and can help implement into your greater strategy.
     </p>
 
 <section class="section-datasets" id="#data_sets">
