@@ -9,7 +9,7 @@ permalink: client
 <div id="main" class="center client inner">
 
     <p>
-    We will provide alpha-generating datasets from our crowdsourced platform at a competitive price and can help implement into your greater strategy.
+    We will provide <span data-tooltip="Alpha (α) is a term used in investing to describe an investment strategy's ability to beat the market, or its "edge." ">alpha-generating</span> datasets from our crowdsourced platform at a competitive price and can help implement into your greater strategy.
     </p>
 
 <section class="section-datasets" id="#data_sets">
