@@ -9,7 +9,7 @@ permalink: model1
 <div id="main" class="center client inner">
 <section class="section-datasets">
     <p>
-        The performance data presented here reflects a real trading strategy that was developed using a beta of the Sleuth AI platform. The dataset that produced these market-beating returns is currently for sale as the team seeks to develop new client relationships.
+        The performance data presented here reflects a real trading strategy that was developed using the Sleuth AI platform. The dataset that produced these market-beating returns is currently for sale as the team seeks to develop new client relationships.
     </p>
     <div class="info-container">
         <div class="card">
