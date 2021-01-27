@@ -5,8 +5,8 @@ title-shown: test and sell all your <br/> <strong>alternative data sources</stro
 card_title: looking for <strong>alpha testers</strong>
 card_description: Want to use Sleuth AI for your trading idea? Apply for our exclusive alpha release now.
 image: assets/images/tablet-314153.png
-nav-menu: true
-show_tile: true
+nav-menu: false
+show_tile: false
 ---
 <section class="people-who-interact">
     <!--<h2 class="h2">who are you</h2>
