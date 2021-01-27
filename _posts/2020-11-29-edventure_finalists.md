@@ -1,6 +1,6 @@
 ---
 layout: post
-title: We are Edventure finalists
+title: Edventure finalists
 description: We are Edventure finalists
 ---
 
