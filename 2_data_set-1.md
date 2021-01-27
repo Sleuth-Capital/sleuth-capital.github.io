@@ -30,7 +30,7 @@ permalink: model1
 <section class="section-datasets">
     <!--<h2 class="h2">backtest curve</h2>
     <hr/>-->
-    <p>The Sleuth AI platform is intended to support programmers in discovering & developing other such successful strategies, and then selling them on to institutional investors who could trade them at scale.</p>
+    <p>The Sleuth AI platform supports programmers in discovering & developing alpha-generating strategies like this one, and sells them to institutional investors who can trade at scale.</p>
     <img src="{% link assets/images/backtest_model1.png %}" alt="backtest curve of the model 1" />
 </section>
 
