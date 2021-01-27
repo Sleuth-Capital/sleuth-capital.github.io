@@ -9,7 +9,7 @@ permalink: model1
 <div id="main" class="center client inner">
 <section class="section-datasets">
     <p>
-        some really great marketing text
+        The performance data presented here reflects a real trading strategy that was developed using a beta of the Sleuth AI platform. The dataset that produced these market-beating returns is currently for sale as the team seeks to develop new client relationships.
     </p>
     <div class="info-container">
         <div class="card">
@@ -30,16 +30,15 @@ permalink: model1
 <section class="section-datasets">
     <!--<h2 class="h2">backtest curve</h2>
     <hr/>-->
-    <p>some marketing text</p>
+    <p>The Sleuth AI platform is intended to support programmers in discovering & developing other such successful strategies, and then selling them on to institutional investors who could trade them at scale.</p>
     <img src="{% link assets/images/backtest_model1.png %}" alt="backtest curve of the model 1" />
 </section>
 
 <section class="section-datasets">
     <!--<h2 class="h2">heatmap</h2>
     <hr/>-->
-    <p>some marketing text</p>
+    <p>If you are interested in buying this data, please contact us.</p>
     <img src="{% link assets/images/heatmap_model1.png %}" alt="heatmap of the model 1" />
-    <p>more marketing text?</p>
 </section>
 
 </div>
