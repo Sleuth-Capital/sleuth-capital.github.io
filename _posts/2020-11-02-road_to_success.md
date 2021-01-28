@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On the road to success
+title: On the Road to Success
 description: On the road from an idea to having a successful business
 ---
 
