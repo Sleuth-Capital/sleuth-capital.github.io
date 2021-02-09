@@ -1,7 +1,7 @@
 ---
 layout: home
 title: home
-title-shown: explore, build & test trading strategies <br/> using <strong>social media & forum data</strong> <br/> on one platform
+title-shown: explore, build & test <br> trading strategies using <br> <strong>social media & forum data</strong> <br/> on one platform
 card_title: looking for <strong>alpha testers</strong>
 card_description: Want to use Sleuth AI for your team or business? Apply for our exclusive alpha release now.
 image: assets/images/tablet-314153.png
