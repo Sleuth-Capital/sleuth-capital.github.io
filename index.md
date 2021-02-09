@@ -1,9 +1,9 @@
 ---
 layout: home
 title: home
-title-shown: test and sell all your <br/> <strong>alternative data sources</strong> <br/> on one platform
+title-shown: build and test all your <br/> <strong>alternative data trading strategies</strong> <br/> on one platform
 card_title: looking for <strong>alpha testers</strong>
-card_description: Want to use Sleuth AI for your trading idea? Apply for our exclusive alpha release now.
+card_description: Want to use Sleuth AI for your team or business? Apply for our exclusive alpha release now.
 image: assets/images/tablet-314153.png
 nav-menu: false
 show_tile: false
