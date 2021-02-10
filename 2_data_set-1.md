@@ -37,7 +37,7 @@ permalink: model1
 <section class="section-datasets">
     <!--<h2 class="h2">heatmap</h2>
     <hr/>-->
-    <p>Defy the odds with our platform's capabilities. If you are interested in buying this data, please contact us.</p>
+    <p>Get a leg up on the market with our platform's capabilities. If you are interested in buying and trading with this data, please contact us.</p>
     <img src="{% link assets/images/model_1_strategy.png %}" alt="heatmap of the model 1" />
 </section>
 
