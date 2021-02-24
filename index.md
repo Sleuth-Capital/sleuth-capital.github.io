@@ -29,9 +29,12 @@ show_tile: false
     </div>
 </section>
 <section class="how-it-works">
-    <h2 class="h2">finalist at</h2>
+    <h2 class="h2">supporting partners & organizations</h2>
     <hr/>
-    <a target="_blank" href="https://edventure.vc/"><img src="{% link assets/images/Edventure.png %}" alt="" /></a>
+    <div>
+        <a target="_blank" href="https://edventure.vc/"><img src="{% link assets/images/Edventure.png %}" alt="" /></a>
+        <a target="_blank" href="https://edventure.vc/"><img src="{% link assets/images/edinburgh_innovations.png %}" alt="" /></a>
+    </div>
 </section>
 
 
