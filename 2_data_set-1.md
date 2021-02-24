@@ -31,14 +31,14 @@ permalink: model1
     <!--<h2 class="h2">backtest curve</h2>
     <hr/>-->
     <p>The Sleuth AI platform supports programmers in discovering & developing alpha-generating strategies like this one and sells them to institutional investors who can trade at scale. Backtesting demonstrates the strategy outperforming the S&P 500.</p>
-    <img src="{% link assets/images/backtest_model1.png %}" alt="backtest curve of the model 1" />
+    <img src="{% link assets/images/model_1_backtesting.png %}" alt="backtest curve of the model 1" />
 </section>
 
 <section class="section-datasets">
     <!--<h2 class="h2">heatmap</h2>
     <hr/>-->
-    <p>Defy the odds with our platform's capabilities. If you are interested in buying this data, please contact us.</p>
-    <img src="{% link assets/images/heatmap_model1.png %}" alt="heatmap of the model 1" />
+    <p>Get a leg up on the market with our platform's capabilities. If you are interested in buying and trading with this data, please contact us.</p>
+    <img src="{% link assets/images/model_1_strategy.png %}" alt="heatmap of the model 1" />
 </section>
 
 </div>
