@@ -13,9 +13,11 @@
 	}
 
 	ul {
-		list-style: disc;
+		color: $black;
 		margin: 0 0 _size(element-margin) 0;
 		padding-left: 1em;
+		list-style-type: disc;
+		list-style-position: inside;
 
 		li {
 			padding-left: 0.5em;
