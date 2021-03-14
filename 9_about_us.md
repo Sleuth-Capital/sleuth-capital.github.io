@@ -28,13 +28,6 @@ permalink: about-us
             <p class="description active">Teague leads Sleuth AI's business strategy & development and has worked in finance and consulting for several years at JPMorgan and Freshsight Ltd.</p>
         </div>
         <div class="person" onclick="displayDescription(this)">
-            <img src="{% link assets/images/Michael.jpg %}" alt="Image of Michael Rimmer" />
-            <h2>Michael Rimmer</h2>
-            <p>Backend Development</p>
-            <a href="https://www.linkedin.com/in/michael-rimmer-235158101/" class="linkedin" target="_blank" onclick="event.stopPropagation();">&#xf0e1;</a>
-            <p class="description active">Michael is a skilled software developer with a broad range of experience as a programmer with Lloyd's Bank, Illuminate Technologies and other firms. He is heavily involved in building the Sleuth AI platform and tools that will support developers in discovering and capitalizing on alternative data trading strategies.</p>
-        </div>
-        <div class="person" onclick="displayDescription(this)">
             <img src="{% link assets/images/Paul.jpg %}" alt="Image of Paul Zwölfer" />
             <h2>Paul Zwölfer</h2>
             <p>Frontend Development</p>
